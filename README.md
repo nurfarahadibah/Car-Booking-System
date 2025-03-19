@@ -15,10 +15,11 @@ The **Vehicle Booking System** is designed to simplify vehicle reservations for 
 ## 2. System Design
 
 ### 2.1 Use Case Diagram
-!Use Case Diagram
+![Alt text](image/use_case.png)
+
 
 ### 2.2 Conceptual ERD
-!Conceptual ERD
+![Alt text](image/ERD.png)
 
 ## 3. Development
 
@@ -35,10 +36,12 @@ The **Vehicle Booking System** is designed to simplify vehicle reservations for 
 ## 4. Database Design
 
 ### 4.1 phpMyAdmin Screenshot
-!phpMyAdmin Screenshot
+![Alt text](image/phpadmin.png)
+
 
 ### 4.2 Screenshot of the Designer in phpMyAdmin
-!Designer Screenshot
+![Alt text](image/designer_php.png)
+
 
 ## 5. Development Steps
 
